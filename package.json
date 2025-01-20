@@ -1,0 +1,23 @@
+{
+  "name": "handy-readme-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gage-Develops-Things/Handy-README-Generator.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gage-Develops-Things/Handy-README-Generator/issues"
+  },
+  "homepage": "https://github.com/Gage-Develops-Things/Handy-README-Generator#readme",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^12.3.2"
+  }
+}
