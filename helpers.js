@@ -38,7 +38,7 @@ ${data.tests}
 This application is covered under the ${data.license}.
 
 ## Questions
-You can find my github with the folowwing handle: [${data.github}][github.com/${data.github}]
+You can find my github with the folowwing handle: [${data.github}][https://github.com/${data.github}]
 Please direct questions to the following email: ${data.email}`;
 
 export default (data) => {

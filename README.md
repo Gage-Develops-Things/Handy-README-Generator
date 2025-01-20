@@ -1,6 +1,6 @@
-# readme
+# gr
 
-## Table of Contents - Academic Free License v3.0
+## Table of Contents - BSD 3-clause "New" or "Revised" license
 [Description](#description)
 [Installation](#installation)
 [Usage](#usage)
@@ -10,23 +10,23 @@
 [Questions](#questions)
 
 ## Description
-readme
+gr
 
 ## Installation
-node and bash
+gr
 
 ## Usage
-none
+gr
 
 ## Contributing
-no
+gr
 
 ## Tests
-none
+gr
 
 ## License
-This application is covered under the Academic Free License v3.0.
+This application is covered under the BSD 3-clause "New" or "Revised" license.
 
 ## Questions
-You can find my github with the folowwing handle: [Gage-Develops-Things][github.com/Gage-Develops-Things]
+You can find my github with the folowwing handle: [Gage-Develops-Things][https://github.com/Gage-Develops-Things]
 Please direct questions to the following email: 93gaget@gmail.com
