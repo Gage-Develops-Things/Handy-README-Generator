@@ -10,7 +10,14 @@ import fs from 'fs';
 let mdString = (data) => 
 `# ${data.title}
 
-## Table of Contents
+## Table of Contents - ${data.license}
+[Description](#description)
+[Installation](#installation)
+[Usage](#usage)
+[Contributing](#contributing)
+[Tests](#tests)
+[License](#license)
+[Questions](#questions)
 
 ## Description
 ${data.description}
@@ -28,14 +35,13 @@ ${data.contributing}
 ${data.tests}
 
 ## License
-${data.license}
+This application is covered under the ${data.license}.
 
 ## Questions
-You can find my github with the folowwing handle: ${data.github}
+You can find my github with the folowwing handle: [${data.github}][github.com/${data.github}]
 Please direct questions to the following email: ${data.email}`;
 
 export default (data) => {
-    const fileName = formatFileName(data);
     const content = mdString(data);
 
     fs.writeFile('README.md', content, (err) => {
