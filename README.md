@@ -1,4 +1,4 @@
-# How to make a README
+# README Generator
 
 ## Table of Contents - MIT
 [Description](#description)
@@ -10,16 +10,16 @@
 [Questions](#questions)
 
 ## Description
-This will help the user create a professional README for their projects.
+This readme generator will help users create a professional readme for their projects.
 
 ## Installation
-Download node and git bash
+download node
 
 ## Usage
 n/a
 
 ## Contributing
-No
+no
 
 ## Tests
 n/a
@@ -28,4 +28,5 @@ n/a
 This application is covered under the MIT.
 
 ## Questions
-You can find my github with the folowwing handle: [Gage-Develops-Things][https://github.com/Gage-Develops-Things]Please direct questions to the following email: 93gaget@gmail.com
+You can find my github with the folowwing handle: [Gage-Develops-Things][https://github.com/Gage-Develops-Things]   
+Please direct questions to the following email: 93gaget@gmail.com
