@@ -1,3 +1,5 @@
+// Please see index.js and helpers.js for the answers to these questions.  I am not sure why this starter code is needed.
+
 // TODO: Include packages needed for this application
 
 // TODO: Create an array of questions for user input

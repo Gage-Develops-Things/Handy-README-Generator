@@ -1,6 +1,6 @@
-# gr
+# How to make a README
 
-## Table of Contents - BSD 3-clause "New" or "Revised" license
+## Table of Contents - MIT
 [Description](#description)
 [Installation](#installation)
 [Usage](#usage)
@@ -10,23 +10,22 @@
 [Questions](#questions)
 
 ## Description
-gr
+This will help the user create a professional README for their projects.
 
 ## Installation
-gr
+Download node and git bash
 
 ## Usage
-gr
+n/a
 
 ## Contributing
-gr
+No
 
 ## Tests
-gr
+n/a
 
 ## License
-This application is covered under the BSD 3-clause "New" or "Revised" license.
+This application is covered under the MIT.
 
 ## Questions
-You can find my github with the folowwing handle: [Gage-Develops-Things][https://github.com/Gage-Develops-Things]
-Please direct questions to the following email: 93gaget@gmail.com
+You can find my github with the folowwing handle: [Gage-Develops-Things][https://github.com/Gage-Develops-Things]Please direct questions to the following email: 93gaget@gmail.com
